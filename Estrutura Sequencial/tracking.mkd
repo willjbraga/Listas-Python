@@ -1,15 +1,15 @@
 ### Rastreio de progresso
 
-- [ ] Exercicio 1
-- [ ] Exercicio 2
-- [ ] Exercicio 3
-- [ ] Exercicio 4
-- [ ] Exercicio 5
-- [ ] Exercicio 6
-- [ ] Exercicio 7
-- [ ] Exercicio 8
-- [ ] Exercicio 9
-- [ ] Exercicio 10
+- [x] Exercicio 1
+- [x] Exercicio 2
+- [x] Exercicio 3
+- [x] Exercicio 4
+- [x] Exercicio 5
+- [x] Exercicio 6
+- [x] Exercicio 7
+- [x] Exercicio 8
+- [x] Exercicio 9
+- [x] Exercicio 10
 - [ ] Exercicio 11
 - [ ] Exercicio 12
 - [ ] Exercicio 13
