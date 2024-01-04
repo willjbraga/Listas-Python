@@ -1,4 +1,4 @@
-### Rastreio de progresso
+### Rastreio de progresso:
 
 - [x] Exercicio 1
 - [x] Exercicio 2
@@ -10,11 +10,11 @@
 - [x] Exercicio 8
 - [x] Exercicio 9
 - [x] Exercicio 10
-- [ ] Exercicio 11
-- [ ] Exercicio 12
-- [ ] Exercicio 13
-- [ ] Exercicio 14
-- [ ] Exercicio 15
+- [x] Exercicio 11
+- [x] Exercicio 12
+- [x] Exercicio 13
+- [x] Exercicio 14
+- [x] Exercicio 15
 - [ ] Exercicio 16
 - [ ] Exercicio 17
 - [ ] Exercucui 18
