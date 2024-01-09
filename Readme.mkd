@@ -2,7 +2,7 @@
 
 Essa repositório foi criado como uma lista de exercicios focada em python, onde todos os exercicios foram tirados do https://wiki.python.org.br/ListaDeExercicios com rastreio de progressão (resolução)
 
-- [ ] Estrutura Sequencial
+- [x] Estrutura Sequencial
 - [ ] Estrutura de Decisão
 - [ ] Estrutura de Repetição 
 - [ ] Listas
