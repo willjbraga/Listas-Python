@@ -1,32 +1,32 @@
 ### Rastreio de progresso:
 
-- [] Exercicio 1
-- [] Exercicio 2
-- [] Exercicio 3
-- [] Exercicio 4
-- [] Exercicio 5
-- [] Exercicio 6
-- [] Exercicio 7
-- [] Exercicio 8
-- [] Exercicio 9
-- [] Exercicio 10
-- [] Exercicio 11
-- [] Exercicio 12
-- [] Exercicio 13
-- [] Exercicio 14
-- [] Exercicio 15
-- [] Exercicio 16
-- [] Exercicio 17
-- [] Exercucui 18
-- [] Exercucui 19
-- [] Exercucui 20
-- [] Exercucui 21
-- [] Exercucui 22
-- [] Exercucui 23
-- [] Exercucui 24
-- [] Exercucui 25
-- [] Exercucui 26
-- [] Exercucui 27
-- [] Exercucui 28
+- [x] Exercicio 1
+- [x] Exercicio 2
+- [x] Exercicio 3
+- [x] Exercicio 4
+- [x] Exercicio 5
+- [ ] Exercicio 6
+- [ ] Exercicio 7
+- [ ] Exercicio 8
+- [ ] Exercicio 9
+- [ ] Exercicio 10
+- [ ] Exercicio 11
+- [ ] Exercicio 12
+- [ ] Exercicio 13
+- [ ] Exercicio 14
+- [ ] Exercicio 15
+- [ ] Exercicio 16
+- [ ] Exercicio 17
+- [ ] Exercicio 18
+- [ ] Exercicio 19
+- [ ] Exercicio 20
+- [ ] Exercicio 21
+- [ ] Exercicio 22
+- [ ] Exercicio 23
+- [ ] Exercicio 24
+- [ ] Exercicio 25
+- [ ] Exercicio 26
+- [ ] Exercicio 27
+- [ ] Exercicio 28
 
 <!-- Comentando essa linha>  <span style="color:red;">Lista Sequencial concluida em 05/01/2024</span>
