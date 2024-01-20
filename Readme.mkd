@@ -10,4 +10,3 @@ Essa repositório foi criado como uma lista de exercicios focada em python, onde
 - [ ] Strings
 - [ ] Arquivos
 - [ ] Classe 
-- [ ] Projetos
