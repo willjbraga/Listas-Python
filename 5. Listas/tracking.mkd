@@ -1,0 +1,22 @@
+### Rastreio de progresso:
+
+- [x] Exercicio 1
+- [x] Exercicio 2
+- [x] Exercicio 3
+- [x] Exercicio 4
+- [x] Exercicio 5
+- [x] Exercicio 6
+- [x] Exercicio 7
+- [x] Exercicio 8
+- [x] Exercicio 9
+- [x] Exercicio 10
+- [x] Exercicio 11
+- [x] Exercicio 12
+- [x] Exercicio 13
+- [x] Exercicio 14
+- [x] Exercicio 15
+- [x] Exercicio 16
+- [x] Exercicio 17
+- [x] Exercucui 18
+
+<span style="color:red;">Lista Sequencial concluida em 05/01/2024</span>
