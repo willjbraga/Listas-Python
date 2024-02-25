@@ -11,46 +11,54 @@
 - [x] Exercicio 9
 - [x] Exercicio 10
 - [x] Exercicio 11
-- [x] Exercicio 12
-- [x] Exercicio 13
-- [x] Exercicio 14
-- [x] Exercicio 15
-- [x] Exercicio 16
-- [x] Exercicio 17
-- [x] Exercicio 18
-- [x] Exercicio 19
-- [x] Exercicio 20
-- [x] Exercicio 21
-- [x] Exercicio 22
-- [x] Exercicio 23
-- [x] Exercicio 24
-- [x] Exercicio 25
-- [x] Exercicio 26
-- [x] Exercicio 27
-- [x] Exercicio 28
-- [x] Exercicio 29
-- [x] Exercicio 30
-- [x] Exercicio 31
-- [x] Exercicio 32
-- [x] Exercicio 33
-- [x] Exercicio 34
-- [x] Exercicio 35
-- [x] Exercicio 36
-- [x] Exercicio 37
-- [x] Exercicio 38
-- [x] Exercicio 39
-- [x] Exercicio 40
-- [x] Exercicio 41
-- [x] Exercicio 42
-- [x] Exercicio 43
-- [x] Exercicio 44
-- [x] Exercicio 45
-- [x] Exercicio 46
-- [x] Exercicio 47
-- [x] Exercicio 48
-- [x] Exercicio 49
-- [x] Exercicio 50
-- [x] Exercicio 51
+- [ ] Exercicio 12
+- [ ] Exercicio 13
+- [ ] Exercicio 14
+- [ ] Exercicio 15
+- [ ] Exercicio 16
+- [ ] Exercicio 17
+- [ ] Exercicio 18
+- [ ] Exercicio 19
+- [ ] Exercicio 20
+- [ ] Exercicio 21
+- [ ] Exercicio 22
+- [ ] Exercicio 23
+- [ ] Exercicio 24
+- [ ] Exercicio 25
+- [ ] Exercicio 26
+- [ ] Exercicio 27
+- [ ] Exercicio 28
+- [ ] Exercicio 29
+- [ ] Exercicio 30
+- [ ] Exercicio 31
+- [ ] Exercicio 32
+- [ ] Exercicio 33
+- [ ] Exercicio 34
+- [ ] Exercicio 35
+- [ ] Exercicio 36
+- [ ] Exercicio 37
+- [ ] Exercicio 38
+- [ ] Exercicio 39
+- [ ] Exercicio 40
+- [ ] Exercicio 41
+- [ ] Exercicio 42
+- [ ] Exercicio 43
+- [ ] Exercicio 44
+- [ ] Exercicio 45
+- [ ] Exercicio 46
+- [ ] Exercicio 47
+- [ ] Exercicio 48
+- [ ] Exercicio 49
+- [ ] Exercicio 50
+- [ ] Exercicio 51
 
 
-<span style="color:red;">Lista Sequencial concluida em 05/01/2024</span>
+### <span style="color:red;">Lista em execução</span>
+
+Feitas: 11
+Total: 51
+
+<svg height="100" width="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="3" fill="none"/>
+  <circle cx="50" cy="50" r="40" stroke="red" stroke-width="3" fill="none" stroke-dasharray="251.2" stroke-dashoffset="62.8"/>
+</svg>
